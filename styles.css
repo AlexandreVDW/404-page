@@ -46,3 +46,6 @@ aside{
 .mario:hover {
     transform: scale(1.2);
 }
+.brique {
+    width:100%;
+}
