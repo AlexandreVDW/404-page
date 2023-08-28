@@ -48,4 +48,5 @@ aside{
 }
 .brique {
     width:100%;
+    background-repeat:repeat-x;
 }
